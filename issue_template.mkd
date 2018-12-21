@@ -1,0 +1,18 @@
+# ¿Cual es el problema?
+Da una breve descripcion desl mismo
+
+# ¿Como puedo replicarlo?
+Se detallado
+
+# Pertenece a: 
+- [ ] HTML
+- [ ] CSS
+- [ ] JS
+- [ ] Otro: especifica...
+
+# ¿En que version del proyecto ocurre?
+
+# ¿En que sistema operativo?
+
+Si tienes detalles extra comentalos...
+
