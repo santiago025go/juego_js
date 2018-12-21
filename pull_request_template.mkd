@@ -1,0 +1,13 @@
+# ¿Que ha cambiado en el proyecto?
+Se detallado
+
+# Pertenece a:
+- [ ] HTML
+- [ ] CSS
+- [ ] JS
+- [ ] Otro: especifique...
+
+# ¿Como puedo comprobar los cambios?
+
+
+# Detalles extra:
