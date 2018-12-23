@@ -84,11 +84,19 @@ body{
   top:-400px;
 }
 
-#boton{
+.boton{
   background-color: #fff;
   padding: 20px;
   position:relative;
   top:-630px;
   left: 105px;
   display: visible;
+}
+.boton.hide{
+  background-color: #fff;
+  padding: 20px;
+  position:relative;
+  top:-630px;
+  left: 105px;
+  display: none;
 }
